@@ -3,7 +3,7 @@ package week_5;
 
 /**
  *
- * @author Roberto
+ * @author Rob
  */
 public class HotelOccupancyC 
 {
